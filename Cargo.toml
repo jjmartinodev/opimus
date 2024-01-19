@@ -1,11 +1,11 @@
 [package]
-name = "hunter"
+name = "opimus"
 version = "0.1.0"
 edition = "2021"
 readme = "README.md"
 license-file = "LICENSE"
-description = "a simple ecs implementation"
-repository = "https://github.com/jjmartinodev/grasp"
+description = "a simple matrix multiplicator"
+repository = "https://github.com/jjmartinodev/opimus"
 keywords = ["math"]
 categories = ["math"]
 
