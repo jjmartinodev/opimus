@@ -2,6 +2,9 @@
 
 use std::{ops::{Index, IndexMut},  simd::{Simd, num::SimdFloat}};
 
+#[cfg(test)]
+mod tests;
+
 pub struct Matrix {
     data: Box<[f32]>,
     width: usize,
